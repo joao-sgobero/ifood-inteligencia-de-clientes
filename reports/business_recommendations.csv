@@ -1,0 +1,5 @@
+priority,audience,action,primary_kpi,guardrails
+P1,Ativos de alto valor,Testar benefício de fidelização,Compra incremental por elegível,"Margem, opt-out e custo"
+P2,Alto valor menos recente,Testar comunicação de retorno,Reativação incremental,Margem e descadastro
+P3,Histórico de aceitação,Testar personalização versus mensagem padrão,Aceitação incremental,Reclamações e pressão de contato
+P4,Consumidores de categoria A sem B,Testar sugestão de categoria complementar,Compra incremental de B,Margem e canibalização
